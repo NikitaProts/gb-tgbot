@@ -1,5 +1,5 @@
 # gb-tgbot
-Сделал простого бота в 3 интента
+Сделал простого бота в 3 интента https://t.me/Nikit2_bot
 - Погода
 ![image](https://user-images.githubusercontent.com/57028143/190857258-df9dfeee-8ddd-490e-b582-d569c3c31fb2.png)
 - Болталка
